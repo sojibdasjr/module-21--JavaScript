@@ -29,3 +29,4 @@ console.log(lyrics.startsWith('2mi'));
 const fileName = 'mymiodata.pdf';
 const otherFile = fileName.endsWith('.pdf');
 console.log(otherFile);
+// ..
